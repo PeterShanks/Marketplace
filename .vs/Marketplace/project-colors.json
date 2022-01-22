@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fa9500b-2029-41e0-8d36-f07f2deca250": {
+      "ProjectGuid": "6fa9500b-2029-41e0-8d36-f07f2deca250",
+      "DisplayName": "Marketplace.Domain",
+      "ColorIndex": 0
+    },
+    "72229ff8-9458-4301-aa3f-5503daf62012": {
+      "ProjectGuid": "72229ff8-9458-4301-aa3f-5503daf62012",
+      "DisplayName": "Marketplace.Framework",
+      "ColorIndex": 1
+    },
+    "94e75f92-1883-42b9-b7be-5bf45713b2c7": {
+      "ProjectGuid": "94e75f92-1883-42b9-b7be-5bf45713b2c7",
+      "DisplayName": "Marketplace.EventSourcing",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "67469856-4d5b-4ddd-b292-c8172fd32557": {
+      "ProjectGuid": "67469856-4d5b-4ddd-b292-c8172fd32557",
+      "DisplayName": "Marketplace.EventStore",
+      "ColorIndex": 3
+    },
+    "1ce7169c-3aa1-4723-99e3-f66dc2dd7b47": {
+      "ProjectGuid": "1ce7169c-3aa1-4723-99e3-f66dc2dd7b47",
+      "DisplayName": "Marketplace",
+      "ColorIndex": 4
+    },
+    "0541bd5e-3d9f-4575-b079-d5b49df48174": {
+      "ProjectGuid": "0541bd5e-3d9f-4575-b079-d5b49df48174",
+      "DisplayName": "Marketplace.RavenDb",
+      "ColorIndex": 5
+    },
+    "2e979c3a-bd02-45cd-8e18-494dbf159008": {
+      "ProjectGuid": "2e979c3a-bd02-45cd-8e18-494dbf159008",
+      "DisplayName": "Marketplace.WebApi",
+      "ColorIndex": 6
+    },
+    "28e0dc07-b421-4edf-adf5-5a5b760940ae": {
+      "ProjectGuid": "28e0dc07-b421-4edf-adf5-5a5b760940ae",
+      "DisplayName": "Marketplace.Ads",
+      "ColorIndex": 7
+    },
+    "2ebb84f2-9c74-406a-9600-ecdcb1cb7636": {
+      "ProjectGuid": "2ebb84f2-9c74-406a-9600-ecdcb1cb7636",
+      "DisplayName": "Marketplace.Ads.Messages",
+      "ColorIndex": 8
+    },
+    "4fcc3c37-48ec-4c84-bf96-b5035d20133e": {
+      "ProjectGuid": "4fcc3c37-48ec-4c84-bf96-b5035d20133e",
+      "DisplayName": "Marketplace.Users.Messages",
+      "ColorIndex": 9
+    },
+    "b595f96d-4e72-4199-9b58-f58bdc13b92c": {
+      "ProjectGuid": "b595f96d-4e72-4199-9b58-f58bdc13b92c",
+      "DisplayName": "Marketplace.Users.Domain",
+      "ColorIndex": 10
+    },
+    "3bbbe357-ccc4-4147-ab05-588754012370": {
+      "ProjectGuid": "3bbbe357-ccc4-4147-ab05-588754012370",
+      "DisplayName": "Marketplace.Users",
+      "ColorIndex": 11
+    },
+    "02496b54-a12b-4d15-86a6-4e37313aa7b5": {
+      "ProjectGuid": "02496b54-a12b-4d15-86a6-4e37313aa7b5",
+      "DisplayName": "Marketplace.Ads.Domain",
+      "ColorIndex": 12
+    },
+    "abe179ea-a839-4301-895c-53d9d73cfa8b": {
+      "ProjectGuid": "abe179ea-a839-4301-895c-53d9d73cfa8b",
+      "DisplayName": "Marketplace.PaidServices.Messages",
+      "ColorIndex": 13
+    },
+    "a59fb16d-c631-4f44-8664-fce7cb3624a1": {
+      "ProjectGuid": "a59fb16d-c631-4f44-8664-fce7cb3624a1",
+      "DisplayName": "Marketplace.PaidServices.Domain",
+      "ColorIndex": 14
+    },
+    "1a56da74-bc3c-406c-b8cc-ed01fb394708": {
+      "ProjectGuid": "1a56da74-bc3c-406c-b8cc-ed01fb394708",
+      "DisplayName": "Marketplace.PaidServices",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

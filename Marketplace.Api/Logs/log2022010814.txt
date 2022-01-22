@@ -1,0 +1,77 @@
+2022-01-08 14:03:50.760 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:04:32.034 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:04:38.851 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:04:40.297 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:04:40.602 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:04:40.602 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:04:40.602 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:04:40.627 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:04:40.627 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:04:40.627 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:05:02.358 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:05:16.982 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:09:52.940 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Marketplace.EventSourcing.ApplicationService`1[Marketplace.Users.Domain.UserProfiles.UserProfile]' while attempting to activate 'Marketplace.Users.UserProfiles.UserProfileCommandsApi'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method341(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-01-08 14:12:16.700 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:12:16.811 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:12:16.833 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:12:16.867 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:12:17.072 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:12:17.072 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:12:17.072 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:12:17.082 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:12:17.082 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:12:17.082 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:12:17.088 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:12:17.089 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:26:21.773 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:26:21.976 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:26:22.023 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:26:22.098 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:26:22.365 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:26:22.365 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:26:22.365 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:26:22.378 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:26:22.378 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:26:22.378 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:26:22.384 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:26:22.388 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:30:01.139 +02:00 [DBG] Handling HTTP request of type UserProfile
+2022-01-08 14:30:31.942 +02:00 [DBG] Handling command: RegisterUser { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:34:23.883 +02:00 [DBG] Persisting event UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:52:05.433 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:52:05.581 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:52:05.605 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:52:05.640 +02:00 [DBG] Starting the projection manager...
+2022-01-08 14:52:05.868 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:52:05.868 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:52:05.868 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:52:05.879 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:52:05.879 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:52:05.879 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:52:05.881 +02:00 [DBG] Retrieved the checkpoint: null
+2022-01-08 14:52:05.885 +02:00 [DBG] Subscribed to $all stream
+2022-01-08 14:52:45.368 +02:00 [DBG] Projecting event UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:52:45.371 +02:00 [DBG] Projecting event UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:52:45.378 +02:00 [DBG] Projecting event UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:52:45.371 +02:00 [DBG] Projecting event UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:53:55.087 +02:00 [DBG] Projecting UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly } to UserDetails
+2022-01-08 14:53:56.909 +02:00 [DBG] Projecting UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly } to ClassifiedAdDetails
+2022-01-08 14:53:55.087 +02:00 [DBG] Projecting UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly } to OrderDraft
+2022-01-08 14:53:57.531 +02:00 [DBG] Reacting to event UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly }
+2022-01-08 14:54:04.952 +02:00 [DBG] Projecting UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly } to MyClassifiedAds
+2022-01-08 14:54:04.952 +02:00 [DBG] Projecting UserRegistered { UserId = 3fa85f64-5717-4562-b3fc-2c963f66afa6, FullName = Peter Emad, DisplayName = PBassaly } to CompletedOrder

@@ -1,0 +1,17 @@
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.PaidServices.Domain.deps.json
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.PaidServices.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\ref\Marketplace.PaidServices.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.PaidServices.Domain.pdb
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.PaidServices.Messages.dll
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.EventSourcing.pdb
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\bin\Debug\net6.0\Marketplace.PaidServices.Messages.pdb
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.csproj.AssemblyReference.cache
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.csproj.CopyComplete
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\ref\Marketplace.PaidServices.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.PaidServices.Domain\obj\Debug\net6.0\Marketplace.PaidServices.Domain.pdb

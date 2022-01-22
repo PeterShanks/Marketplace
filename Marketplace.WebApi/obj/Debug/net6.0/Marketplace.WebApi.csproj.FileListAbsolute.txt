@@ -1,0 +1,15 @@
+D:\Study\mp\Marketplace\Marketplace.WebApi\bin\Debug\net6.0\Marketplace.WebApi.deps.json
+D:\Study\mp\Marketplace\Marketplace.WebApi\bin\Debug\net6.0\Marketplace.WebApi.dll
+D:\Study\mp\Marketplace\Marketplace.WebApi\bin\Debug\net6.0\ref\Marketplace.WebApi.dll
+D:\Study\mp\Marketplace\Marketplace.WebApi\bin\Debug\net6.0\Marketplace.WebApi.pdb
+D:\Study\mp\Marketplace\Marketplace.WebApi\bin\Debug\net6.0\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.WebApi\bin\Debug\net6.0\Marketplace.EventSourcing.pdb
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.csproj.AssemblyReference.cache
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.csproj.CopyComplete
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.dll
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\ref\Marketplace.WebApi.dll
+D:\Study\mp\Marketplace\Marketplace.WebApi\obj\Debug\net6.0\Marketplace.WebApi.pdb

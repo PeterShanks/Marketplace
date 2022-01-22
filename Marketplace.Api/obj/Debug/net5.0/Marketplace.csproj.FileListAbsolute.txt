@@ -1,0 +1,163 @@
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.exe
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.deps.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.runtimeconfig.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\ref\Marketplace.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Lambda2Js.Signed.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Raven.Client.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Sparrow.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Domain.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Domain.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Framework.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\staticwebassets\Marketplace.StaticWebAssets.Manifest.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\staticwebassets\Marketplace.StaticWebAssets.xml
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\scopedcss\bundle\Marketplace.styles.css
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.RazorTargetAssemblyInfo.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.CopyComplete
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\ref\Marketplace.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.genruntimeconfig.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\appsettings.json
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.exe
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.deps.json
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.runtimeconfig.json
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.runtimeconfig.dev.json
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\ref\Marketplace.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.pdb
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\EventStore.ClientAPI.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Lambda2Js.Signed.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\protobuf-net.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Raven.Client.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Sparrow.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\System.ServiceModel.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Domain.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Domain.pdb
+D:\Study\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Framework.pdb
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.AssemblyReference.cache
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.AssemblyInfoInputs.cache
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.AssemblyInfo.cs
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.CoreCompileInputs.cache
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\staticwebassets\Marketplace.StaticWebAssets.Manifest.cache
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\staticwebassets\Marketplace.StaticWebAssets.xml
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\scopedcss\bundle\Marketplace.styles.css
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.RazorTargetAssemblyInfo.cache
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.CopyComplete
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.dll
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\ref\Marketplace.dll
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.pdb
+D:\Study\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.genruntimeconfig.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\appsettings.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.exe
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.deps.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.runtimeconfig.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.runtimeconfig.dev.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\ref\Marketplace.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\EventStore.ClientAPI.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Lambda2Js.Signed.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\protobuf-net.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Raven.Client.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Sparrow.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\System.ServiceModel.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Domain.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Domain.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\bin\Debug\net5.0\Marketplace.Framework.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.AssemblyReference.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.AssemblyInfoInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.AssemblyInfo.cs
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.CoreCompileInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\staticwebassets\Marketplace.StaticWebAssets.Manifest.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\scopedcss\bundle\Marketplace.styles.css
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.RazorTargetAssemblyInfo.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.csproj.CopyComplete
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\ref\Marketplace.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.genruntimeconfig.cache
+D:\Study\mp\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.dll
+D:\Study\mp\Marketplace\Marketplace.Api\obj\Debug\net5.0\ref\Marketplace.dll
+D:\Study\mp\Marketplace\Marketplace.Api\obj\Debug\net5.0\Marketplace.pdb

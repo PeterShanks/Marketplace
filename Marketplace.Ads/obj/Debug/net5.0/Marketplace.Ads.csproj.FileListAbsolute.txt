@@ -1,0 +1,24 @@
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\bin\Debug\net5.0\Marketplace.Ads.deps.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\bin\Debug\net5.0\Marketplace.Ads.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\bin\Debug\net5.0\ref\Marketplace.Ads.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\bin\Debug\net5.0\Marketplace.Ads.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.csproj.AssemblyReference.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.AssemblyInfoInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.AssemblyInfo.cs
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.csproj.CoreCompileInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\ref\Marketplace.Ads.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.pdb
+D:\Study\mp\Marketplace\Marketplace.Ads\bin\Debug\net5.0\Marketplace.Ads.deps.json
+D:\Study\mp\Marketplace\Marketplace.Ads\bin\Debug\net5.0\Marketplace.Ads.dll
+D:\Study\mp\Marketplace\Marketplace.Ads\bin\Debug\net5.0\ref\Marketplace.Ads.dll
+D:\Study\mp\Marketplace\Marketplace.Ads\bin\Debug\net5.0\Marketplace.Ads.pdb
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.csproj.AssemblyReference.cache
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.dll
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\ref\Marketplace.Ads.dll
+D:\Study\mp\Marketplace\Marketplace.Ads\obj\Debug\net5.0\Marketplace.Ads.pdb

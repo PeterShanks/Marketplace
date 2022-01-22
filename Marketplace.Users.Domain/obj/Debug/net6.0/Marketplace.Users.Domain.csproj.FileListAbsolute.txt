@@ -1,0 +1,17 @@
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.Users.Domain.deps.json
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.Users.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\ref\Marketplace.Users.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.Users.Domain.pdb
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.Users.Messages.dll
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.EventSourcing.pdb
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\bin\Debug\net6.0\Marketplace.Users.Messages.pdb
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.csproj.AssemblyReference.cache
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.csproj.CopyComplete
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\ref\Marketplace.Users.Domain.dll
+D:\Study\mp\Marketplace\Marketplace.Users.Domain\obj\Debug\net6.0\Marketplace.Users.Domain.pdb

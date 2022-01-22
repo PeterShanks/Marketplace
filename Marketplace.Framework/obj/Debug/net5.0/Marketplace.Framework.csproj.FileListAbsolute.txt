@@ -1,0 +1,43 @@
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.deps.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\net5.0\ref\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\ref\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csprojAssemblyReference.cache
+D:\Study\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.deps.json
+D:\Study\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\Marketplace\Marketplace.Framework\bin\Debug\net5.0\ref\Marketplace.Framework.dll
+D:\Study\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.pdb
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfoInputs.cache
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfo.cs
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csproj.CoreCompileInputs.cache
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\ref\Marketplace.Framework.dll
+D:\Study\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.deps.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\bin\Debug\net5.0\ref\Marketplace.Framework.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\bin\Debug\net5.0\Marketplace.Framework.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csproj.AssemblyReference.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfoInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfo.cs
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csproj.CoreCompileInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\ref\Marketplace.Framework.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.pdb
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csproj.AssemblyReference.cache
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.dll
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\ref\Marketplace.Framework.dll
+D:\Study\mp\Marketplace\Marketplace.Framework\obj\Debug\net5.0\Marketplace.Framework.pdb

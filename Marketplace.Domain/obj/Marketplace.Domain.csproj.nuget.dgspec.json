@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Domain\\Marketplace.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj",
+        "projectName": "Marketplace.Ads.Messages",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Domain\\Marketplace.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Domain\\Marketplace.Domain.csproj",
+        "projectName": "Marketplace.Domain",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Domain\\Marketplace.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj",
+        "projectName": "Marketplace.EventSourcing",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DeepCloner": {
+              "target": "Package",
+              "version": "[0.10.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

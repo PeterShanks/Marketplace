@@ -1,0 +1,953 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Api\\Marketplace.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Domain\\Marketplace.Ads.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Domain\\Marketplace.Ads.Domain.csproj",
+        "projectName": "Marketplace.Ads.Domain",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Domain\\Marketplace.Ads.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj",
+        "projectName": "Marketplace.Ads.Messages",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Ads\\Marketplace.Ads.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads\\Marketplace.Ads.csproj",
+        "projectName": "Marketplace.Ads",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads\\Marketplace.Ads.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Domain\\Marketplace.Ads.Domain.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Domain\\Marketplace.Ads.Domain.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads.Messages\\Marketplace.Ads.Messages.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Api\\Marketplace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Api\\Marketplace.csproj",
+        "projectName": "Marketplace",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Api\\Marketplace.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Ads\\Marketplace.Ads.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Ads\\Marketplace.Ads.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices\\Marketplace.PaidServices.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices\\Marketplace.PaidServices.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Users\\Marketplace.Users.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users\\Marketplace.Users.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "RavenDB.Client": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj",
+        "projectName": "Marketplace.EventSourcing",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DeepCloner": {
+              "target": "Package",
+              "version": "[0.10.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj",
+        "projectName": "Marketplace.EventStore",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[21.2.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Domain\\Marketplace.PaidServices.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Domain\\Marketplace.PaidServices.Domain.csproj",
+        "projectName": "Marketplace.PaidServices.Domain",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Domain\\Marketplace.PaidServices.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj",
+        "projectName": "Marketplace.PaidServices.Messages",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices\\Marketplace.PaidServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices\\Marketplace.PaidServices.csproj",
+        "projectName": "Marketplace.PaidServices",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices\\Marketplace.PaidServices.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Domain\\Marketplace.PaidServices.Domain.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Domain\\Marketplace.PaidServices.Domain.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.PaidServices.Messages\\Marketplace.PaidServices.Messages.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj",
+        "projectName": "Marketplace.RavenDb",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "RavenDB.Client": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Domain\\Marketplace.Users.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Domain\\Marketplace.Users.Domain.csproj",
+        "projectName": "Marketplace.Users.Domain",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Domain\\Marketplace.Users.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj",
+        "projectName": "Marketplace.Users.Messages",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.Users\\Marketplace.Users.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.Users\\Marketplace.Users.csproj",
+        "projectName": "Marketplace.Users",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users\\Marketplace.Users.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventStore\\Marketplace.EventStore.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.RavenDb\\Marketplace.RavenDb.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Domain\\Marketplace.Users.Domain.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Domain\\Marketplace.Users.Domain.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.Users.Messages\\Marketplace.Users.Messages.csproj"
+              },
+              "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj",
+        "projectName": "Marketplace.WebApi",
+        "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\Marketplace.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Pbassaly\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\mp\\Marketplace\\Marketplace.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pbassaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj": {
+                "projectPath": "D:\\Study\\mp\\Marketplace\\Marketplace.EventSourcing\\Marketplace.EventSourcing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

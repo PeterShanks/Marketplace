@@ -1,0 +1,12 @@
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\bin\Debug\net6.0\Marketplace.Ads.Messages.deps.json
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\bin\Debug\net6.0\Marketplace.Ads.Messages.dll
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\bin\Debug\net6.0\ref\Marketplace.Ads.Messages.dll
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\bin\Debug\net6.0\Marketplace.Ads.Messages.pdb
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.dll
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\ref\Marketplace.Ads.Messages.dll
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.pdb
+D:\Study\mp\Marketplace\Marketplace.Ads.Messages\obj\Debug\net6.0\Marketplace.Ads.Messages.csproj.AssemblyReference.cache

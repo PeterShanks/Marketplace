@@ -1,0 +1,9 @@
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\netstandard2.0\Marketplace.Framework.deps.json
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\netstandard2.0\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\bin\Debug\netstandard2.0\Marketplace.Framework.pdb
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\netstandard2.0\Marketplace.Framework.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\netstandard2.0\Marketplace.Framework.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\netstandard2.0\Marketplace.Framework.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\netstandard2.0\Marketplace.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\netstandard2.0\Marketplace.Framework.dll
+C:\Users\Peter\source\repos\Marketplace\Marketplace.Framework\obj\Debug\netstandard2.0\Marketplace.Framework.pdb

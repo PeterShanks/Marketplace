@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/SweaWarningsMode/@EntryValue">ShowAndRun</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6faa28fe_002De4f7_002D421e_002D9ff8_002D2480a0775e0d/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6faa28fe_002De4f7_002D421e_002D9ff8_002D2480a0775e0d/Coords/@EntryValue">(Doc Ln 22 Col 1)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6faa28fe_002De4f7_002D421e_002D9ff8_002D2480a0775e0d/FileId/@EntryValue">1CE7169C-3AA1-4723-99E3-F66DC2DD7B47/f:Program.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6faa28fe_002De4f7_002D421e_002D9ff8_002D2480a0775e0d/Owner/@EntryValue">AnonymousBookmarkManager</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Field/=DATE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Field/=DATE/Expression/@EntryValue">getCurrentDate("yyyy-MM-dd")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Field/=DATE/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Field/=DATE/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Shortcut/@EntryValue">todo</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D2873CE075E84C47A4FB90C82C5A518F/Text/@EntryValue">// TODO PB: $END$ ($DATE$)</s:String>
+	
+	
+	
+	</wpf:ResourceDictionary>

@@ -1,0 +1,15 @@
+D:\Study\mp\Marketplace\Marketplace.EventStore\bin\Debug\net6.0\Marketplace.EventStore.deps.json
+D:\Study\mp\Marketplace\Marketplace.EventStore\bin\Debug\net6.0\Marketplace.EventStore.dll
+D:\Study\mp\Marketplace\Marketplace.EventStore\bin\Debug\net6.0\ref\Marketplace.EventStore.dll
+D:\Study\mp\Marketplace\Marketplace.EventStore\bin\Debug\net6.0\Marketplace.EventStore.pdb
+D:\Study\mp\Marketplace\Marketplace.EventStore\bin\Debug\net6.0\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.EventStore\bin\Debug\net6.0\Marketplace.EventSourcing.pdb
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.csproj.AssemblyReference.cache
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.csproj.CopyComplete
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.dll
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\ref\Marketplace.EventStore.dll
+D:\Study\mp\Marketplace\Marketplace.EventStore\obj\Debug\net6.0\Marketplace.EventStore.pdb

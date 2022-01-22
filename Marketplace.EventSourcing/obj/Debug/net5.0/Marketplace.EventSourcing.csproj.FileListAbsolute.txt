@@ -1,0 +1,12 @@
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\bin\Debug\net5.0\Marketplace.EventSourcing.deps.json
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\bin\Debug\net5.0\Marketplace.EventSourcing.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\bin\Debug\net5.0\ref\Marketplace.EventSourcing.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\bin\Debug\net5.0\Marketplace.EventSourcing.pdb
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.csproj.AssemblyReference.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.AssemblyInfoInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.AssemblyInfo.cs
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.csproj.CoreCompileInputs.cache
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\ref\Marketplace.EventSourcing.dll
+D:\Study\DDD\Hands-On Domain-Driven Design with .NET Core\Marketplace\Marketplace.EventSourcing\obj\Debug\net5.0\Marketplace.EventSourcing.pdb

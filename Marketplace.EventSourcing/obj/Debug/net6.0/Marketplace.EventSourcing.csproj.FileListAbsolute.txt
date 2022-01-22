@@ -1,0 +1,12 @@
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\bin\Debug\net6.0\Marketplace.EventSourcing.deps.json
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\bin\Debug\net6.0\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\bin\Debug\net6.0\ref\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\bin\Debug\net6.0\Marketplace.EventSourcing.pdb
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.AssemblyInfoInputs.cache
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.AssemblyInfo.cs
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.csproj.CoreCompileInputs.cache
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\ref\Marketplace.EventSourcing.dll
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.pdb
+D:\Study\mp\Marketplace\Marketplace.EventSourcing\obj\Debug\net6.0\Marketplace.EventSourcing.csproj.AssemblyReference.cache
